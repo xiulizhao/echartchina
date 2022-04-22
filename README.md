@@ -1,5 +1,6 @@
 # echartchina
 Echarts中国地图元素，用于显示地图区域<br>
+<img src="http://www.wware.org/img/zgmap.png?_9480" width="400px"><br>
 普通属性<br>
 data-xssfbq	设置显示省份标签	true/fasle<br>
 data-tsbg	设置提示标签背景颜色	#ff7f50<br>
